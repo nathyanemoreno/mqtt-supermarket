@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "name": "Placa de Vídeo Zotac NVIDIA GeForce RTX 3060  Ti Twin Edge LHR, 8GB, 14.0 Gbps, GDDR6, DLSS, Ray Tracing - ZT-A30610E-10MLHR",
+      "price_br": 4299.9
+    },
+    {
+      "name": "Headset Gamer HyperX Cloud Stinger, Drivers 50mm, Múltiplas Plataformas, P2 e P3 - HX-HSCS-BK/NA",
+      "price_br": 199.9
+    },
+    {
+      "name": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+      "price_br": 659.9
+    },
+    {
+      "name": "Smartphone Motorola Moto E7, 64GB, RAM 4GB, Octa-Core, Câmera 48MP, 4000mAh, Cinza Metálico - PALV0031BR",
+      "price_br": 1214.48
+    }
+  ]
+}
